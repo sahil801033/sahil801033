@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahil
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Future+Software+Developer;Python+Learner;Videographer+%26+Creator&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Future+Software+Developer;Python+Learner;center=true&width=500&height=50">
 </p>
 
 ---
