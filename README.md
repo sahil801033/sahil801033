@@ -9,8 +9,6 @@
 ## 🚀 About Me
 - 🎓 BSc Computer Science Student  
 - 💻 Learning Python, Linux & Web Development  
-- 🎬 Videographer & Content Creator  
-- 🇩🇪 Germany Aspirant  
 - ⚡ Building projects & improving daily  
 
 ---
@@ -38,8 +36,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 📸 Instagram: https://instagram.com/cinevibe_by_sonu  
-- 📧 Email: kartiklandage160@gmail.com  
+- Phone-8263070297 
+- 📧 Email: sahilyelwande82@gmail.com  
 
 ---
 
