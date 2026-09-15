@@ -64,7 +64,7 @@
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sahil801033&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
+    src="https://github-stats-extended.vercel.app/api?username=sahil801033&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
     alt="Sahil's GitHub Stats"
   />
 
@@ -80,17 +80,17 @@
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil801033&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sahil801033&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
     alt="Top Languages"
   />
 
   <br/><br/>
 
-  <!-- Activity Graph -->
+  <!-- Activity & Contribution Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sahil801033&theme=tokyo-night&area=true&hide_border=false&radius=10" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahil801033&theme=tokyonight" 
     width="100%" 
-    alt="GitHub Contribution Graph"
+    alt="GitHub Contribution Graph and Profile Summary"
   />
 
 </div>
