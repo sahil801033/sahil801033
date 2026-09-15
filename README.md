@@ -1,131 +1,109 @@
 <div align="center">
 
-<!-- Header Banner with Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,45&height=220&section=header&text=Hi,%20I'm%20Sahil%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" alt="Header Banner" />
+# 👋 Hi, I'm Sahil
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=26&duration=1500&pause=500&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%A4%96+AI+%2F+ML+Engineer;%E2%98%81%EF%B8%8F+Computer+Scince;%E2%9A%99%EF%B8%8F+Software+Engineer;%F0%9F%93%8A+Data+Scientist;%E2%9C%A8+GenAI+Engineer"/>
-
-<br/>
-
-
-<a href="https://github.com/sahil801033">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=🎓+BSc+Computer+Science+Student;💻+Future+Software+Developer;🐍+Python+%26+Web+Development+Learner;⚡+Building+Projects+%26+Improving+Daily" />
-</a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil801033&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Python-blueviolet?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat-square" alt="Status" />
-</p>
-
-</div>
-
----
-
-### 🚀 About Me
-
-```
-┌──(sahil@portfolio)-[~]
-└─$ whoami
-```
-
-- 🎓 **Education:** BSc Computer Science Student  
-- 💻 **Currently Learning:** Python, Linux & Web Development  
-- ⚡ **Goals:** Building real-world projects & improving daily  
-- 🎯 **Interests:** Software Engineering, Open-Source & Problem Solving  
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,bash,vscode&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sahil801033&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
-    alt="Sahil's GitHub Stats"
-  />
-
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=sahil801033&theme=tokyonight&border_radius=10&hide_border=false" 
-    alt="Sahil's GitHub Streak"
-  />
-
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil801033&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
-    alt="Top Languages"
-  />
-
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sahil801033&theme=tokyo-night&area=true&hide_border=false&radius=10" 
-    width="100%" 
-    alt="GitHub Contribution Graph"
-  />
-
-</div>
-### 🌐 Connect With Me
-
-<div align="center">
-
-<p align="center">
-  <a href="mailto:sahilyelwande82@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sahilyelwande82%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="tel:8263070297">
-    <img src="https://img.shields.io/badge/Phone-%2B91--8263070297-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone Badge" />
-  </a>
-  <a href="https://github.com/sahil801033">
-    <img src="https://img.shields.io/badge/GitHub-sahil801033-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p>
+### 🎓 B.Sc. Computer Science Student | 🐍 Python Learner | 🤖 AI/ML Enthusiast
 
 <p>
-  📞 <b>Phone:</b> <a href="tel:8263070297">+91 8263070297</a> &nbsp;|&nbsp; 
-  📧 <b>Email:</b> <a href="mailto:sahilyelwande82@gmail.com">sahilyelwande82@gmail.com</a>
+  <a href="https://github.com/sahil801033">
+    <img src="https://img.shields.io/badge/GitHub-sahil801033-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sahilyelwande82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sahil-yelwande-20561737a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=sahil801033&label=Profile%20Views&color=0e75b6&style=flat-square" />
 
 </div>
 
 ---
 
-### ✨ Quote
+## 🚀 About Me
 
-<div align="center">
+🎓 I'm a **B.Sc. Computer Science student** passionate about technology and software development.
 
-> *"Code. Create. Improve. Repeat."* 🚀
+🐍 Currently learning **Python, Data Analytics, AI/ML and Web Development**.
 
-<!-- Bottom Waving Transition -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,45&height=120&section=footer" width="100%" alt="Footer Wave" />
+💡 I enjoy building practical projects, solving programming problems and learning new technologies.
 
-</div>
+🎯 My goal is to become a skilled **Software Developer / Data Scientist** and work on real-world projects.
+
+### 🔭 Currently Working On
+
+- 🐍 Python Programming
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Web Development
+- 🧠 Data Structures & Algorithms
+- 💻 Real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 📊 Data & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+ ├── Programming Fundamentals
+ ├── OOP
+ ├── Data Structures
+ └── Problem Solving
+
+Data Analytics
+ ├── Excel
+ ├── SQL
+ ├── Power BI
+ └── Data Visualization
+
+AI / ML
+ ├── Machine Learning
+ ├── Data Preprocessing
+ ├── Model Training
+ └── Artificial Intelligence
+
+Development
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ └── Git & GitHub'
