@@ -5,13 +5,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=26&duration=1400&pause=400&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%A4%96+AI+%2F+ML+Engineer;%E2%98%81%EF%B8%8F+Computer+Scince;%E2%9A%99%EF%B8%8F+Software+Engineer;%F0%9F%93%8A+Data+Scientist;%E2%9C%A8+GenAI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=26&duration=1500&pause=500&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%A4%96+AI+%2F+ML+Engineer;%E2%98%81%EF%B8%8F+Computer+Scince;%E2%9A%99%EF%B8%8F+Software+Engineer;%F0%9F%93%8A+Data+Scientist;%E2%9C%A8+GenAI+Engineer"/>
 
 <br/>
 
 
 <a href="https://github.com/sahil801033">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=🎓+BSc+Computer+Science+Student;💻+Future+Software+Developer;🐍+Python+%26+Web+Development+Learner;⚡+Building+Projects+%26+Improving+Daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=🎓+BSc+Computer+Science+Student;💻+Future+Software+Developer;🐍+Python+%26+Web+Development+Learner;⚡+Building+Projects+%26+Improving+Daily" />
 </a>
 
 <p align="center">
