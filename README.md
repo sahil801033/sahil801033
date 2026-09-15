@@ -58,31 +58,42 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sahil801033&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="Sahil's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil801033&theme=tokyonight&border_radius=10&hide_border=false" alt="Sahil's Streak Stats" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil801033&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sahil801033&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
+    alt="Sahil's GitHub Stats"
+  />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil801033&theme=tokyo-night&area=true&hide_border=false&border_radius=10" width="100%" alt="Contribution Graph" />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=sahil801033&theme=tokyonight&border_radius=10&hide_border=false" 
+    alt="Sahil's GitHub Streak"
+  />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil801033&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&cache_seconds=1800" 
+    alt="Top Languages"
+  />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sahil801033&theme=tokyo-night&area=true&hide_border=false&radius=10" 
+    width="100%" 
+    alt="GitHub Contribution Graph"
+  />
+
 </div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
