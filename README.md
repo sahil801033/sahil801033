@@ -9,7 +9,7 @@
 
 <br/>
 
-<!-- Animated Typing Subtitle -->
+
 <a href="https://github.com/sahil801033">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=🎓+BSc+Computer+Science+Student;💻+Future+Software+Developer;🐍+Python+%26+Web+Development+Learner;⚡+Building+Projects+%26+Improving+Daily" alt="Typing SVG" />
 </a>
